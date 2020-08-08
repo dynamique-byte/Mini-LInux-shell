@@ -10,4 +10,4 @@ keeping the history of commands and showing help handled? All of this can be und
 
 # references:-or any other resources
     https://bash.cyberciti.biz/guide/Main_Page
-    http://www.ee.surrey.ac.uk/Teaching/Unix/
+    https://www.ee.surrey.ac.uk/Teaching/Unix/
