@@ -11,3 +11,8 @@ keeping the history of commands and showing help handled? All of this can be und
 # references:-or any other resources
     https://bash.cyberciti.biz/guide/Main_Page
     https://www.ee.surrey.ac.uk/Teaching/Unix/
+    https://www.geeksforgeeks.org/input-output-system-calls-c-create-open-close-read-write/
+    https://www.geeksforgeeks.org/introduction-of-system-call/
+    & other useful references-galvin(os)
+    
+that's all , Happy learning with shell...! :)
