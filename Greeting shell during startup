@@ -1,0 +1,14 @@
+void init_shell(){ 
+	clear(); 
+	printf("\n\n\n\n******************"
+		"************************"); 
+	printf("\n\n\n\tMY OWN SHELL :)"); 
+	printf("\n\n\tTALK is CHEAP,SHOW me the COMMANDs!!"); 
+	printf("\n\n\n\n*******************"
+		"***********************"); 
+	char* username = getenv("USER"); 
+	printf("\n\n\nUSER is: @%s", username); 
+	printf("\n"); 
+	sleep(1); 
+	clear(); 
+} 
